@@ -1,1 +1,3 @@
-hello from article 2
+# Spirituality
+
+- having a strong relationship with God 

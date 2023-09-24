@@ -1,1 +1,3 @@
-hello from article 1
+# Lifestyle
+
+- Creating mindfulness habits, setting sleep and wake timings.
